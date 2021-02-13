@@ -1,0 +1,46 @@
+.navbar {
+  background-color: #3f78e3;
+  color: white;
+}
+.brand {
+  font-weight: 800;
+  font-size: xx-large;
+  color: #3f78e3;
+
+  margin-left: 50px;
+}
+#navbarDropdown {
+  font-weight: 600;
+  color: #3f78e3;
+  font-size: larger;
+}
+.jumbotron {
+  background-image: url("/images/jumbo.jpg");
+  height: 90vh;
+  background-position: center center;
+  background-size: cover;
+}
+.blueclr {
+  color: #3f78e3;
+}
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px 50px 0px;
+  min-height: 400px;
+}
+.topnav {
+  background-color: #3f78e3;
+}
+.grayclr {
+  background-color: #f7f7f7;
+}
+.hovereff:hover {
+  color: #3f78e3;
+}
+.bluehover:hover {
+  background-color: #3f78e3;
+  color: white;
+}
+.pad {
+  padding: 20px;
+}
